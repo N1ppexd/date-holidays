@@ -15,6 +15,27 @@ holidays:
         _name: 01-01
       01-06:
         _name: 01-06
+      02-05:
+        name:
+          fi: Runebergin päivä
+        type: observance
+      02-14:
+          _name: 02-14
+          type: observance
+      02-28:
+        name:
+          fi: Kalevalan päivä
+      easter -49:
+        name: 
+          fi: Laskiaissunnuntai
+        type: observance
+      easter -47:
+        name:
+          fi: Laskiaistiistai
+        type: observance
+      03-08:
+        _name: 03-08
+        type: observance
       easter -2:
         _name: easter -2
       easter:
@@ -32,13 +53,13 @@ holidays:
         type: observance
       friday after 06-19:
         name:
-          fi: juhannusaatto
+          fi: Juhannusaatto
           en: Midsummer Eve
           sv: midsommarafton
         type: bank
       saturday after 06-20:
         name:
-          fi: juhannuspäivä
+          fi: Juhannuspäivä
           en: Midsummer Day
           sv: midsommardagen
       saturday after 10-31:
@@ -48,6 +69,7 @@ holidays:
         type: observance
       12-06:
         _name: Independence Day
+        type: bank
       12-24:
         _name: 12-24
         type: bank
