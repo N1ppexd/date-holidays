@@ -1,6 +1,7 @@
 holidays:
   # @source https://almanakka.helsinki.fi/fi/liputus-ja-juhlapaivat/
   # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Finland
+  # @source https://en.wikipedia.org/wiki/Flag_flying_days_in_Finland
   FI:
     names:
       fi: Suomi
@@ -8,6 +9,7 @@ holidays:
     dayoff: sunday
     langs:
       - fi
+      - sv
     zones:
       - Europe/Helsinki
     days:
@@ -18,6 +20,8 @@ holidays:
       02-05:
         name:
           fi: Runebergin päivä
+          en: Runeberg Day
+          sv: Runebergsdagen
         type: observance
       02-14:
           _name: 02-14
@@ -25,13 +29,16 @@ holidays:
       02-28:
         name:
           fi: Kalevalan päivä
+          en: Kalevala Day
+          sv: Kalevaladagen
       easter -49:
         name: 
           fi: Laskiaissunnuntai
+          en: Shrove Sunday
+          sv: Fastlagssöndag
         type: observance
       easter -47:
-        name:
-          fi: Laskiaistiistai
+        _name: easter -47
         type: observance
       03-08:
         _name: 03-08
@@ -48,9 +55,31 @@ holidays:
         _name: easter 39
       easter 49:
         _name: easter 49
+      04-01:
+        _name: 04-01
+      04-09:
+        name:
+          fi: Mikael Agricolan päivä
+          en: Mikael Agricola Day
+          sv: Mikael Agricoladagen
+      05-09:
+        name:
+          fi: Eurooppa-päivä
+          en: Europe Day
+          sv: Europadagen
+      05-12:
+        name:
+          fi: J.V. Snellmanin päivä
+          en: J.V. Snellman Day
+          sv: J.V. Snellmandagen
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+      3rd sunday in May:
+        name:
+          fi: Kaatuneiden muistopäivä
+          en: Commemoration Day of Fallen Soldiers
+          sv: De fallnas minnesdag
       friday after 06-19:
         name:
           fi: Juhannusaatto
@@ -62,6 +91,16 @@ holidays:
           fi: Juhannuspäivä
           en: Midsummer Day
           sv: midsommardagen
+      07-06:
+        name:
+          fi: Eino Leinon päivä
+          en: Eino Leino Day
+          sv: Eino Leinodagen
+      10-10:
+        name:
+          fi: Aleksis Kiven päivä
+          en: Aleksis Kivi Day
+          sv: Aleksis Kivi-dagen
       saturday after 10-31:
         _name: 11-01
       2nd sunday in November:
@@ -70,6 +109,11 @@ holidays:
       12-06:
         _name: Independence Day
         type: bank
+      12-08:
+        name:
+          fi: Jean Sibeliuksen päivä
+          en: Jean Sibelius Day
+          sv: Jean Sibelius-dagen
       12-24:
         _name: 12-24
         type: bank

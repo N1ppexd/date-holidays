@@ -159,6 +159,7 @@ names:
       no: Aprilsnarr
       sq: Dita e Gënjeshtrave
       vi: Cá tháng tư
+      fi: Aprillipäivä
   05-01:
     name:
       en: Labour Day
@@ -514,6 +515,8 @@ names:
       pl: Ostatki
       pt: Carnaval
       vi: Thứ ba mập béo
+      fi: Laskiaistiistai
+      sv: Fastlagstisdag
   easter -46: # Ash Wednesday
     name:
       en: Ash Wednesday
